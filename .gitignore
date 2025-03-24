@@ -434,3 +434,4 @@ FodyWeavers.xsd
 
 # JUCE
 **/JuceLibraryCode
+**/[Bb]uilds
